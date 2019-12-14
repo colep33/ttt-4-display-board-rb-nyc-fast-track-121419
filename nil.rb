@@ -1,1 +1,1 @@
-nil
+puts nil
